@@ -1,0 +1,9 @@
+#baseURL = "http://recipes.harbison.ga/"
+#languageCode = "en-us"
+#title = "Family Recipes"
+#theme = "mini"
+
+baseURL: https://recipes.harbison.ga
+languageCode: en-us
+title: Family Recipes
+theme: mini
