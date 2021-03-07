@@ -1,0 +1,4 @@
+baseURL = "http://recipes.harbison.ga/"
+languageCode = "en-us"
+title = "Family Recipes"
+theme = "mini"
