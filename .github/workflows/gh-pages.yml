@@ -12,12 +12,6 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
 
-      - name: Remove current theme
-        run: rm -rf themes/*
-
-      - name: Update theme
-        run: git submodule update --init --recursive
-
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
