@@ -5,11 +5,11 @@ draft: false
 ---
 
 ## Ingredients
-- 3 3/4 Cup – 00 Flour
-- 6 tsp – Sugar
+- 3 3/4 Cup (260g) – 00 Flour
+- 6 tsp (20g) – Sugar
 - 1/2 tsp – Yeast
-- 1 1/4 Cup – Water
-- 1 1/2 tsp – salt
+- 1 1/4 Cup (370g) – Water
+- 1 1/2 tsp (10g) – salt
 - 3 tsp – Olive Oil
 
 ## Directions
