@@ -1,16 +1,15 @@
 ---
 title: "Best Pizza Dough"
-date: 2021-02-15T20:08:41-06:00
+date: 2022-05-22T13:31:31-06:00
 draft: false
 ---
 
 ## Ingredients
-- 3 3/4 Cup (260g) – 00 Flour
-- 6 tsp (20g) – Sugar
-- 1/2 tsp – Yeast
-- 1 1/4 Cup (370g) – Water
-- 1 1/2 tsp (10g) – salt
-- 3 tsp – Olive Oil
+- 425g – 00 Flour
+- 15g – Sugar
+- 6g – Yeast
+- 225g – Water
+- 10g – salt
 
 ## Directions
-Combine flour, sugar, and yeast in mixing bowl. Mix thoroughly. Add water and mix until mostly formed. Pour mixture onto counter and start kneading for at least 10 minutes. Add salt and olive oil during kneading process. When it’s finished it should pass the window pane test otherwise keep kneading and add splash of water if needed. This should make 4 – 14″ pizza crusts.
+Combine all ingredients in mixing bowl. Mix thoroughly. Pour mixture onto counter and start kneading for at least 10 minutes. When it’s finished it should pass the window pane test otherwise keep kneading and add splash of water if needed. This should make 2 – 12″ pizza crusts.
