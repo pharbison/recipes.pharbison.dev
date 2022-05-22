@@ -1,25 +1,32 @@
 ---
 title: "Baked Bean Casserole"
-date: 2019-05-25T20:09:07-06:00
+date: 2022-05-22T13:17:07-06:00
 draft: false
 ---
 
 ## Ingredients
-- 1/2 Vidalia Onion
-- 1/2 Red Bell Pepper
-- 1 Clove Garlic
-- 1 lb Hickory Smoked Bacon Thick Cut
+- 1 Vidalia Onion
+- 1 Red Bell Pepper
+- 3 Garlic Cloves
+- 1 lb Thick Cut Bacon
 - 1 lb Ground Beef
-- 1/2 Tsp Cajun Seasoning
-- 2x 15oz Cans Pork and Beans in Tomato Sauce(plain)
-- 1/4 Cup Dark Molasses
-- 2 Tsp Light Brown Sugar
-- 1/4 Cup BBQ Sauce
-- 1 Tsp Mustard
+- 1 Tbsp Cajun Seasoning
+- 4x 15oz Cans Pork and Beans in Tomato Sauce(plain)
+- 1/2 Cup Dark Molasses
+- 2 Tbsp Light Brown Sugar
+- 1/2 Cup BBQ Sauce
+- 1 Tbsp Mustard
+
+## Prep
+1. Dice onion and bell pepper
+2. Mince garlic
+3. Cut bacon into 1" by 1/4" pieces
 
 ## Directions
-Start by dicing the onion, bell pepper, and garlic. Set them aside and cook the bacon in a large pan. Keeping the grease in the pan sauté the onion and bell pepper.
+Cook the bacon in a large pot. After bacon is cooked spoon the pieces out into a bowl lined with napkins. 
 
-After the onion and bell pepper are sautéed brown the ground beef in the same pan. Strain the ground meat out and place back in the pan. Cut up the bacon and pour into the pan along with the garlic. Stir in and simmer for a few minutes.
+Pour your onions and bell peppers into the bacon grease and sauté. Once they've become soft and fragrant add the ground beef to the pot. Cook until all meat is browned, then strain the meat to remove the excess grease. 
 
-Now pour in the beans, mix and simmer for a few minutes. Next up mix in the cajun seasoning, dark molasses, brown sugar, bbq sauce, and mustard. Cover on low heat stirring occasionally.
+Add the cooked bacon and garlic back into the pot. Allow to cook for 3-5 minutes stirring occasionally. If needed add water to prevent from sticking to the bottom of the pot. 
+
+Finally add beans, cajun seasoning, dark molasses, brown sugar, bbq sauce, and mustard. Cover on low heat stirring occasionally to allow flavors to mix. 
