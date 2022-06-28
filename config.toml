@@ -1,4 +1,4 @@
-baseURL = "http://recipes.harbison.club/"
+baseURL = "http://recipes.pharbison.dev/"
 languageCode = "en-us"
 title = "Family Recipes"
 theme = "mini"
