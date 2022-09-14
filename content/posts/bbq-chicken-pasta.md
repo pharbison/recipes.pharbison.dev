@@ -11,6 +11,7 @@ draft: false
 - 2 green onions, chopped
 - 1 cup red & green bell peppers, chopped
 - Velveeta cheese
+- 2-3 Chicken Breasts
 
 ## Directions
 - Cook and stir chicken in large nonstick skillet on medium heat 8-10 minutes or until done. Remove from skillet; cover to keep warm.
