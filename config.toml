@@ -2,3 +2,5 @@ baseURL = "http://recipes.pharbison.dev/"
 languageCode = "en-us"
 title = "Family Recipes"
 theme = "mini"
+params.enableGoogleAnalytics = true
+googleAnalytics = "G-LDY55SZ579"
