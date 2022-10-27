@@ -1,0 +1,7 @@
+baseURL: https://recipes.pharbison.dev/
+languageCode: en-us
+title: Family Recipes
+theme: mini
+googleAnalytics: G-LDY55SZ579
+params:
+  enableGoogleAnalytics: true
