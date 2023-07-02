@@ -2,9 +2,15 @@
 name: github pages
 
 on:   # yamllint disable-line rule:truthy
-  push:
-    branches:
-      - main
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+      - synchronize
+# push:
+  #   branches:
+  #     - main
 
 jobs:
   test:
@@ -19,7 +25,7 @@ jobs:
         with:
           config_file: .yamllint
 
-  deploy:
+  build-check:
     runs-on: ubuntu-20.04
     steps:
       - name: Git checkout
@@ -33,9 +39,3 @@ jobs:
           extended: true
       - name: Build static web files
         run: hugo --minify
-      - name: Deploy to Github Pages
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
