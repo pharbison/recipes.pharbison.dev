@@ -8,9 +8,6 @@ on:   # yamllint disable-line rule:truthy
       - edited
       - reopened
       - synchronize
-# push:
-  #   branches:
-  #     - main
 
 jobs:
   test:
