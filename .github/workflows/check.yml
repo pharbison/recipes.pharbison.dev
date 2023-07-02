@@ -7,6 +7,7 @@ on:   # yamllint disable-line rule:truthy
       - opened
       - edited
       - reopened
+      - synchronize
 # push:
   #   branches:
   #     - main
