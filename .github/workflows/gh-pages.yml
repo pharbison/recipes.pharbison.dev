@@ -19,7 +19,7 @@ jobs:
         with:
           config_file: .yamllint
 
-  build:
+  deploy:
     runs-on: ubuntu-20.04
     steps:
       - name: Git checkout
@@ -33,10 +33,6 @@ jobs:
           extended: true
       - name: Build static web files
         run: hugo --minify
-
-  deploy:
-    runs-on: ubuntu-20.04
-    steps:
       - name: Deploy to Github Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
