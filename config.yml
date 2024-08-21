@@ -4,6 +4,6 @@ languageCode: en-us
 title: Family Recipes
 theme:
   - github.com/nodejh/hugo-theme-mini
-# googleAnalytics: G-LDY55SZ579
-# params:
-#   enableGoogleAnalytics: true
+googleAnalytics: G-LDY55SZ579
+params:
+  enableGoogleAnalytics: true
