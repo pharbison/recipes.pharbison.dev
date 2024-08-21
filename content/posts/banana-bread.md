@@ -12,7 +12,7 @@ draft: false
 - 3/4 cup sugar
 - 1/2 cup vegetable oil
 - 1/2 teaspoon vanilla extract
-- 3 over-ripe bananas
+- 3 overripe bananas
 
 ## Directions
 Pre-heat oven to 325F and grease a bread pan.
