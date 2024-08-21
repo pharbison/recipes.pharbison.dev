@@ -7,3 +7,12 @@ hugo_stats.json
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
