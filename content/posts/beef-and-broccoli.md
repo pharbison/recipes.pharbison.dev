@@ -14,6 +14,7 @@ draft: false
 - 2 cups cooked rice
 
 ## Sauce Ingredients
+- 1 Tbsp cornstarch
 - 1/3 cup soy sauce
 - 2 Tbsp brown sugar
 - 1 tsp ground ginger
