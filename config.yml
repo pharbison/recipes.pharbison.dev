@@ -3,7 +3,15 @@ baseURL: https://recipes.pharbison.dev/
 languageCode: en-us
 title: Family Recipes
 theme:
-  - github.com/nodejh/hugo-theme-mini
-googleAnalytics: G-LDY55SZ579
+  - github.com/hugo-sid/hugo-blog-awesome
+services:
+  googleAnalytics:
+    id: G-LDY55SZ579
 params:
   enableGoogleAnalytics: true
+menu:
+  main:
+    - pageRef: "posts"
+      name: 'Posts'
+      url: '/posts/'
+      weight: 10
