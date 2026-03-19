@@ -30,11 +30,11 @@ draft: false
 - 1Tbsp smoked paprika
 
 ## Hot Honey Sauce Ingredients
-3 Tbsp butter
-1 tsp garlic powder
-1 Tbsp smoked paprika
-1/3 cup honey
-1/4 cup Frank’s Hot Sauce
+- 3 Tbsp butter
+- 1 tsp garlic powder
+- 1 Tbsp smoked paprika
+- 1/3 cup honey
+- 1/4 cup Frank’s Hot Sauce
 
 ## Sauce Directions
 Add all ingredients to a pot, simmer for a few minutes on low heat.
