@@ -1,0 +1,30 @@
+{{ $.Scratch.Set "title" site.Title }}
+{{ if eq .RelPermalink "/" }}
+  {{ $.Scratch.Set "title" (printf "%s | %s" .Title site.Title) }}
+{{ else }}
+  {{ $.Scratch.Set "title" (printf "%s | %s" .Title site.Title) }}
+{{ end }}
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ (printf "%s" ($.Scratch.Get "title")) | truncate 100 }}</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <description>{{ $.Scratch.Get "description" | default site.Title | strings.TrimSuffix "\n" | truncate 150 }}</description>
+    {{ with .Site.LanguageCode }}
+      <language>{{ . }}</language>
+    {{ end }}
+
+    {{ range where site.RegularPages "Section" "posts" }}
+      <item>
+        <title>{{ .Title | default .Name }}</title>
+        <link>{{ .Permalink }}</link>
+        <guid isPermaLink="true">{{ .Permalink }}</guid>
+        <description>{{ (.Content | transform.Plainify | htmlUnescape | chomp) | truncate 160 }}</description>
+        {{ with .PublishDate }}
+          <pubDate>{{ .Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+        {{ end }}
+      </item>
+    {{ end }}
+  </channel>
+</rss>
