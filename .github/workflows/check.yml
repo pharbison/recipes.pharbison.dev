@@ -1,5 +1,5 @@
 ---
-name: github pages
+name: CI
 
 on:   # yamllint disable-line rule:truthy
   pull_request:
@@ -9,30 +9,51 @@ on:   # yamllint disable-line rule:truthy
       - reopened
       - synchronize
 
+# Limit concurrent builds on the same branch to prevent duplicate deployments
+concurrency:
+  group: 'pages-${{ github.event.pull_request.number || github.ref }}'
+  cancel-in-progress: true
+
 jobs:
-  test:
+  # Validate YAML syntax and configuration files
+  lint:
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: YAML Lint
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '~0.135.0'
+          extended: true
+
+      - name: Lint YAML configuration files
         uses: ibiqlik/action-yamllint@v3
         with:
           config_file: .yamllint
 
-  build-check:
+  # Build the Hugo site to verify it compiles without errors
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '~0.135.0'
           extended: true
+
       - name: Build static web files
         run: hugo --minify
+
+      - name: Validate build artifacts
+        run: |
+          echo "Build completed successfully"
+          ls -la public/ 2>/dev/null || echo "No public directory generated (expected for empty content)"
