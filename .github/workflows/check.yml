@@ -56,4 +56,5 @@ jobs:
       - name: Validate build artifacts
         run: |
           echo "Build completed successfully"
-          ls -la public/ 2>/dev/null || echo "No public directory generated (expected for empty content)"
+          ls -la public/ 2>/dev/null || echo \
+          "No public directory generated (expected for empty content)"
