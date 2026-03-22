@@ -32,13 +32,10 @@ jobs:
         with:
           config_file: .yamllint
 
-  # Build and deploy the Hugo site to GitHub Pages
-  deploy:
+  # Build the Hugo site and upload artifact
+  build:
     runs-on: ubuntu-latest
     needs: lint
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.content_url }}
     steps:
       - name: Git checkout
         uses: actions/checkout@v4
@@ -53,6 +50,25 @@ jobs:
 
       - name: Build static web files
         run: hugo --minify
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: public
+          path: ./public
+
+  # Deploy the pre-built artifact to GitHub Pages
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+    steps:
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: ./public
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
