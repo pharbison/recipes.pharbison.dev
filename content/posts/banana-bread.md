@@ -15,8 +15,4 @@ draft: false
 - 3 overripe bananas
 
 ## Directions
-Pre-heat oven to 325F and grease a bread pan.
-In a mixing bowl combine all dry ingredients and mix thoroughly.
-In a seperate mixing bowl add all of your wet ingredients and whisk.
-Combine the wet and dry ingredients and mix.
-Add mixture to the breadpan and bake for 50 - 60 minutes or until a toothpick comes out clean.
+Preheat oven to 325F and grease a bread pan. In a mixing bowl combine all dry ingredients and mix thoroughly. In a separate mixing bowl add all wet ingredients and whisk. Combine the wet and dry ingredients and mix. Add mixture to the bread pan and bake for 50-60 minutes or until a toothpick comes out clean.

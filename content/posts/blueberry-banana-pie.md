@@ -5,15 +5,15 @@ draft: false
 ---
 
 ## Ingredients
-- 2 9" Pie crusts (cooked)
+- 2 9 inch pie crusts (cooked)
 - 3 Bananas
-- 1 Large package of cream cheese
-- 1 cup of sugar
-- 1 9oz tub of cool whip
-- 1 can of blueberry filling
+- 1 Large package cream cheese
+- 1 cup sugar
+- 1 9oz tub cool whip
+- 1 can blueberry filling
 
 ## Prep
-1. Slice banana's into cross-sections
+1. Slice bananas into cross-sections
 2. Mix cream cheese, sugar, and fold in cool whip
 
 ## Directions

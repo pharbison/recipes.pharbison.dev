@@ -24,6 +24,6 @@ draft: false
 Slice steak and place into mixing bowl. Add cornstarch, water, and garlic powder. Mix thoroughly. Heat cooking oil in large skillet. Add steak mixture and stir fry until re-heated. Add desired amount of broccoli.
 
 ## Sauce Directions
-Mix soy sauce, brown sugar, ground ginger, cornstarch, and water in mixing bowl until cornstarch is disolved. **Do not use warm water**. Add mixture to skillet with cooked steak. Cook for 2-5 minutes until sauce has thickened and coated all ingredients.
+Mix soy sauce, brown sugar, ground ginger, cornstarch, and water in mixing bowl until cornstarch is dissolved. **Do not use warm water**. Add mixture to skillet with cooked steak. Cook for 2-5 minutes until sauce has thickened and coated all ingredients.
 
-Server over rice.
+Serve over rice.

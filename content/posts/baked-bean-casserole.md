@@ -8,13 +8,13 @@ draft: false
 - 1 Vidalia Onion
 - 1 Red Bell Pepper
 - 3 Garlic Cloves
-- 1 lb Thick Cut Bacon
-- 1 lb Ground Beef
+- 1 lb thick cut bacon
+- 1 lb ground beef
 - 1 Tbsp Cajun Seasoning
-- 4x 15oz Cans Pork and Beans in Tomato Sauce(plain)
-- 1/2 Cup Dark Molasses
-- 2 Tbsp Light Brown Sugar
-- 1/2 Cup BBQ Sauce
+- 4x 15oz cans pork and beans in tomato sauce (plain)
+- 1/2 cup dark molasses
+- 2 Tbsp light brown sugar
+- 1/2 cup BBQ Sauce
 - 1 Tbsp Mustard
 
 ## Prep
@@ -29,4 +29,4 @@ Pour your onions and bell peppers into the bacon grease and sauté. Once they've
 
 Add the cooked bacon and garlic back into the pot. Allow to cook for 3-5 minutes stirring occasionally. If needed add water to prevent from sticking to the bottom of the pot. 
 
-Finally add beans, cajun seasoning, dark molasses, brown sugar, bbq sauce, and mustard. Cover on low heat stirring occasionally to allow flavors to mix. 
+Finally add beans, Cajun seasoning, dark molasses, brown sugar, BBQ sauce, and mustard. Cover on low heat stirring occasionally to allow flavors to mix.

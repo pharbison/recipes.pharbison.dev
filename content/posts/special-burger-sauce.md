@@ -5,13 +5,13 @@ draft: false
 ---
 
 ## Ingredients
-- 1 tsp garlic powder 
+- 1 tsp garlic powder
 - 4 tsp sugar
-- Pinch of salt 
-- 60g sour cream 
-- 15g ketchup 
+- Pinch of salt
+- 60g sour cream
+- 15g ketchup
 - 10g mustard
 - 1 Tbsp white wine vinegar
 
 ## Directions
-Mix ingredients, adjust as needed and serve. 
+Mix ingredients, adjust as needed and serve.
